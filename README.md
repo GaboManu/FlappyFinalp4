@@ -1,2 +1,2 @@
-# FlappyFinalp4
+# FlappyFinalVargasp4
 Repo for Flappy Bird recreation Final
