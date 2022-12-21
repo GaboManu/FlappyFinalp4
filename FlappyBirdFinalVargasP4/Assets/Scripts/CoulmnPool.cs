@@ -8,7 +8,7 @@ public class CoulmnPool : MonoBehaviour
     {
         if (other.GetComponent<Bird>() != null)
         {
-            GameControl.instance.Bird.Scoreed();
+            GameControl.instance.BirdScored();
         }
     }
 }
